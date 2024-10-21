@@ -26,11 +26,16 @@ nav {
 section {
     border: 2px solid #999;
     margin-bottom: 10px;
+    width: 400px;
+    float: left;
 }
 
 aside {
     border: 2px solid #999;
     margin-bottom: 10px;
+    width: 200px;
+    display:block;
+    float: right;
 }
 
 footer {
